@@ -25,3 +25,10 @@
 >>> z
 ['a', 'c', 'd']
 ```
+if no index given, pop removes the last item
+```
+>>> z.pop()
+'d'
+>>> z
+['a', 'c']
+```
