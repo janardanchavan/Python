@@ -10,7 +10,7 @@
 >>> x
 ['a', 'c', 'd']
 ```
-`del` removes the item at a specific index:
+`del` removes the item `at a specific index`:
 ```
 >>> y = ['a', 'b', 'c', 'd']
 >>> del y[1]
