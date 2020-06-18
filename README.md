@@ -1,6 +1,8 @@
 # Python
 
 ### List operations
+
+#### Move List items 
 `remove` removes the `first matching value`, not a specific index:
 ```
 >>> x = ['a', 'b', 'c', 'd']
